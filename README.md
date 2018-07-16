@@ -1,0 +1,2 @@
+# zabbix_tomcat_apr_ssl
+用于tomcat开启APR和SSL下的ZAbbix监控模板
